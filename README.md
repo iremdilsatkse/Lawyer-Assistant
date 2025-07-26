@@ -18,7 +18,7 @@ Bu proje, bir sözleşme metni üzerinden soruları yanıtlamak için Retrieval 
 
 1.  **Depoyu Klonlayın**:
     ```bash
-    git clone <depo-url'niz>
+    git clone (https://github.com/iremdilsatkse/Lawyer-Assistant.git)
     ```
 
 2.  **Sanal Ortam Oluşturun ve Aktive Edin**:
